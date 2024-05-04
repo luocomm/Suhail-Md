@@ -1,15 +1,15 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> 𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ" height="400" src="https://telegra.ph/file/3109785e34b49e117cac4.png">
   </a>
 </p>
     
@@ -17,16 +17,16 @@
    
 <p align="center">
    <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+    <img src="https://telegra.ph/file/3109785e34b49e117cac4.pngstyle=flat-square&logo=github&color=darkred">
    </a>
   <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
-     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+     <img src="https://telegra.ph/file/3109785e34b49e117cac4.pngstyle=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+    <img alt="SuhailTechInfo Yt" src="https://telegra.ph/file/3109785e34b49e117cac4.png" target="_blank" />
   </a>
 
 </p>
@@ -35,9 +35,9 @@
 <p align="center">
 
  <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
+ <img title="Owner" src="hhttps://telegra.ph/file/3109785e34b49e117cac4.png=owner"></a>
    <a href="https://github.com/SuhailTechInfo">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+    <img src="https://telegra.ph/file/3109785e34b49e117cac4.pngstyle=flat-square&logo=github&color=darkred">
   </a>
   
 
@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/temp/deploy-on-vps.md"><img src="https://telegra.ph/file/3109785e34b49e117cac4.png?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
